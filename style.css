@@ -162,3 +162,77 @@ body {
 .bi{
     color:rgb(255, 208, 0);
 }
+#coupon{   
+    margin: auto;
+    height: 20%;
+    width: 40%;
+    top:300px;
+    margin-left: 40%;
+    position: relative;
+    z-index: 1;
+    visibility: hidden;
+}
+.button{
+    position: absolute;
+}
+
+#coupon > img{
+    width:60%;
+}
+.mainContainer{
+    position: absolute;
+    top: 0;
+}
+
+body{
+    background-color:white !important;  
+    color:black !important
+}
+.mydark{
+    background-color:black !important;
+    color:white !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
