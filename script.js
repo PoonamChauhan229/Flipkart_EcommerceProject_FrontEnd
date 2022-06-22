@@ -2,11 +2,13 @@ var coupon=document.getElementById('coupon')
 
 function loadCoupon(){
 coupon.style.visibility="visible"
+document.getElementById('mainDarkMode').classList.add('overlay')
 
 }
 
 function closeCoupon(){
 coupon.style.visibility="hidden"
+document.getElementById('mainDarkMode').classList.remove('overlay')
 }
 
 function changeMode(){
