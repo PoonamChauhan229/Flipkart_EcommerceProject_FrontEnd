@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+        "product_name": "Mens Casual Premium Slim Fit T-Shirts ",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1000,
+        "Size": "Small",
+        "image": "https://ibb.co/gjq68Fw",
+        "Color": "White",
+        "Brand": "Only"
+    },
+    {
+        "id": 2,
+        "product_name": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1000,
+        "Size": "Small",
+        "image": "https://ibb.co/8j3Tx5H",
+        "Color": "Blue",
+        "Brand": "Levis"
+    },
+    {
+        "id": 3,
+        "product_name": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1000,
+        "Size": "Small",
+        "image": "https://ibb.co/Cz2vNW9",
+        "Color": "Blue",
+        "Brand": "Levis"
+    },
+    {
+        "id": 4,
+        "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1000,
+        "Size": "Small",
+        "image": "https://ibb.co/tm8pFQ2",
+        "Color": "Blue",
+        "Brand": "People"
+    },
+    {
+        "id": 5,
+        "product_name": "Mens Cotton Jacket",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1000,
+        "Size": "Small",
+        "image": "https://ibb.co/3smtkTZ",
+        "Color": "Gray",
+        "Brand": "Wetside"
+    },
+    {
+        "id": 6,
+        "product_name": "Mens Casual Slim Fit",
+        "category": "Fashion",
+        "category_id": 1,
+        "Price": 1000,
+        "image": "https://ibb.co/VSZzntw",
+        "Color": "Navy Blue",
+        "Brand": "People"
+    },
+    {
+        "id": 7,
+        "product_name": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 1000,
+        "image": "https://ibb.co/CVpXBFN",
+        "Color": "Black",
+        "Brand": "Sony"
+    },
+    {
+        "id": 8,
+        "product_name": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 1000,
+        "image": "https://ibb.co/2j8SPyx",
+        "Color": "Black",
+        "Brand": "Sandisk"
+    },
+    {
+        "id": 9,
+        "product_name": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 1000,
+        "image": "https://ibb.co/y8XKqyN",
+        "Color": "Black",
+        "Brand": "Sandisk"
+    },
+    {
+        "id": 10,
+        "product_name": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 1000,
+        "image": "https://ibb.co/7b2Y5LB",
+        "Color": "Black",
+        "Brand": "acer"
+    },
+    {
+        "id": 11,
+        "product_name": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 1000,
+        "image": "https://ibb.co/F7GwHcy",
+        "Color": "Black",
+        "Brand": "samsung"
+    },
+    
+    {
+        "id": 12,
+        "product_name": "OnePlus 9 5G",
+        "category": "Mobiles",
+        "category_id": 3,
+        "Price": 1000,
+        "image": "ttps://ibb.co/5WMFCsd",
+        "Color": "Blue",
+        "Brand": "Oneplus"
+    },
+    {
+        "id": 13,
+        "product_name": "Iphone 13 mini",
+        "category": "Mobiles",
+        "category_id": 3,
+        "Price": 1000,
+        "image": "https://ibb.co/N31mw4d",
+        "Color": "Blue",
+        "Brand": "Apple"
+    },
+    {
+        "id": 14,
+        "product_name": "Samsung s21 ultra",
+        "category": "Mobiles",
+        "category_id": 3,
+        "Price": 1000,
+        "image": "https://ibb.co/nC0NwsQ",
+        "Color": "Blue",
+        "Brand": "Samsung"
+    },
+    {
+        "id": 15,
+        "product_name": "xiomi mi 11",
+        "category": "Mobiles",
+        "category_id": 3,
+        "Price": 1000,
+        "image": "https://ibb.co/6mbp3WM",
+        "Color": "Blue",
+        "Brand": "xiomi"
+    }
+]
