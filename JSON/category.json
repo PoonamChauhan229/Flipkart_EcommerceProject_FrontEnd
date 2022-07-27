@@ -1,23 +1,39 @@
 [
     {
-        "id":1,
+        "category_id":1,
         "category": "Fashion"
     },
     {
-        "id":2,
+        "category_id":2,
         "category":"Electronics"
     },
     {
-        "id":3,
+        "category_id":3,
         "category":"Mobiles"
     },
     {
-        "id":4,
+        "category_id":4,
         "category": "Grocery"
     },
     {
-        "id":5,
+        "category_id":5,
         "category":"Appliances"
+    },
+    {
+        "category_id":6,
+        "category":"Home"
+    },
+    {
+        "category_id":7,
+        "category":"Travel"
+    },
+    {
+        "category_id":8,
+        "category":"Others"
+    },
+    {
+        "category_id":9,
+        "category":"Top_Offers"
     }
 ]
 
